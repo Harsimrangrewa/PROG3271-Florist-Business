@@ -13,6 +13,11 @@ The system focuses on:
 2. Online ordering
 3. Secure Checkout
 
+Routes Usable: 
+"localhost3000/browse"
+"localhost3000/order" for GET, PUT requests
+"localhost3000/checkout" for GET request
+
 # Basic frontend idea 
 
 1. Header (Logo,website name)
